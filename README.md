@@ -13,4 +13,4 @@ $ chmod +x setup.sh mac.sh brew.sh
 $ ./mac.sh && ./brew.sh && ./setup.sh
 ```
 
-3. Import ~/dotfiles/themes/forest-itermcolors to iTerm2
+3. Import color themes for iTerm according to preference and choose zsh theme on the .zshrc file as well.
