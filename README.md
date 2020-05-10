@@ -14,3 +14,5 @@ $ ./mac.sh && ./brew.sh && ./setup.sh
 ```
 
 3. Import color themes for iTerm according to preference and choose zsh theme on the .zshrc file as well.
+
+Recommended plug-ins for zsh: 1) autosuggestions 2) syntax highlighting
