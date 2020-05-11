@@ -47,9 +47,11 @@ install_zsh () {
 
 install_zsh
 
-ln -sf ~/dotfiles/zsh/themes/alex.zsh-theme $HOME/.oh-my-zsh/themes
-ln -sf ~/dotfiles/.vim/.vimrc $HOME/.vimrc
-ln -sf ~/dotfiles/.vim $HOME/.vim
+ln -sf ~/dotfiles/zsh-themes/honukai.zsh-theme $HOME/.oh-my-zsh/themes
+ln -sf ~/dotfiles/zsh-themes/bullet-train.zsh-theme $HOME/.oh-my-zsh/themes
+ln -sf ~/dotfiles/zsh-themes/powerlevel10k.zsh-theme $HOME/.oh-my-zsh/themes
+#ln -sf ~/dotfiles/.vim/.vimrc $HOME/.vimrc
+#ln -sf ~/dotfiles/.vim $HOME/.vim
 ln -sf ~/dotfiles/.zshrc $HOME/.zshrc
 #ln -sf ~/dotfiles/.gitconfig $HOME/.gitconfig
 ln -sf ~/dotfiles/.hushlogin $HOME/.hushlogin
